@@ -1,6 +1,6 @@
 a=10;
 b=12;
-if [ $a -gt $b ]
+if [ $a -lt $b ]
 then
      echo "value of a is greater than b";
 else
